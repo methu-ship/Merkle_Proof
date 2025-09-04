@@ -13,7 +13,7 @@ This is a simple implementation of a Merkle Tree in Rust. It demonstrates how to
 
 ### Prerequisites
 
-- Rust (install via https://rustup.rs)
+- Rust Language: Install via https://rustup.rs
 
 ### Run the project
 
